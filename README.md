@@ -1,7 +1,6 @@
 # Analyse Commerciale – Bottle-Neck (ERP × Web)
 
-Projet d'analyse de données réalisé dans le cadre de ma formation M1 IA & Big Data (ISM).
-
+Projet d'analyse de données réalisé dans le cadre d'un TP.
 ## Contexte
 
 Bottle-Neck est une cave à vin fictive qui vend à la fois en magasin (données ERP) et sur son site e-commerce (export web). L'objectif est de rapprocher ces deux sources, détecter les anomalies de données, puis produire une analyse commerciale complète.
